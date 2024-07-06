@@ -27,6 +27,7 @@ abline(simp)
 summary.lm(simp)
 ```
 
+Adjusted R squared: 0.87 RSE: 43.91 
 
 ## Compare all models that predict WEIGHT other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
 
